@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Hadeer Elhabashy
-## 🧬 Welcome to the GitHub page of Elhabashy Lab | AI for Protein Science
+Welcome to Elhabashy Lab GitHub page
 
 ## 🏛️ Affiliations
 University of Bayreuth
