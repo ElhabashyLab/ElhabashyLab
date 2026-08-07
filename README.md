@@ -1,6 +1,10 @@
-## 👋 Hi there, I'm Hadeer Elhabashy
-Welcome to Elhabashy Lab GitHub page
+<div align="center">
 
-## 🏛️ Affiliations
-- University of Bayreuth
-- Max Planck Institute for Biology Tübingen
+## 👋 Welcome to Elhabashy Lab GitHub page 
+**University of Bayreuth** • **Max Planck Institute for Biology Tübingen**
+
+
+</div>
+
+
+
