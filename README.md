@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="group_photos/PXL_20250717_125929621.jpg" alt="Our lab" width="400">
+  <img src="group_photos/PXL_20250717_125929621.jpg" alt="Our lab" width="600">
 </p>  
 
 <p align="center">
