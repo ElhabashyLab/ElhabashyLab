@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="group_photos/DSC_0356.JPG" alt="Our lab" width="500">
+  <img src="group_photos/DSC_0356.JPG" alt="Our lab" width="400">
 </p>  
 
 We are a multidisciplinary group of computational biophysicists, bioinformaticians, and machine learning researchers
