@@ -6,6 +6,10 @@
 
 
 <p align="center">
+  <img src="group_photos/PXL_20250717_125929621.jpg" alt="Our lab" width="400">
+</p>  
+
+<p align="center">
   <img src="group_photos/DSC_0356.JPG" alt="Our lab" width="400">
 </p>  
 
