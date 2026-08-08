@@ -2,7 +2,12 @@
 
 ## Welcome to Elhabashy Lab GitHub page 
 **University of Bayreuth** • **Max Planck Institute for Biology Tübingen**
-<img src="group_photos/DSC_0356.JPG" alt="Our lab" width="300">
+
+
+<p align="center">
+  <img src="group_photos/DSC_0356.JPG" alt="Our lab" width="500">
+</p>  
+
 We are a multidisciplinary group of computational biophysicists, bioinformaticians, and machine learning researchers
 
 We seek to understand biological life at the molecular level.  
